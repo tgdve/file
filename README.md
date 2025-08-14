@@ -1,0 +1,2 @@
+# file
+static file
